@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/sevtechcodes-react-form-handling/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/sevtechcodes-react-form-handling/static/js/main.bfbd3527.chunk.js",
+    "main.js.map": "/sevtechcodes-react-form-handling/static/js/main.bfbd3527.chunk.js.map",
+    "runtime-main.js": "/sevtechcodes-react-form-handling/static/js/runtime-main.0f3a7b92.js",
+    "runtime-main.js.map": "/sevtechcodes-react-form-handling/static/js/runtime-main.0f3a7b92.js.map",
+    "static/js/2.6c19aec3.chunk.js": "/sevtechcodes-react-form-handling/static/js/2.6c19aec3.chunk.js",
+    "static/js/2.6c19aec3.chunk.js.map": "/sevtechcodes-react-form-handling/static/js/2.6c19aec3.chunk.js.map",
+    "static/js/3.d148dd67.chunk.js": "/sevtechcodes-react-form-handling/static/js/3.d148dd67.chunk.js",
+    "static/js/3.d148dd67.chunk.js.map": "/sevtechcodes-react-form-handling/static/js/3.d148dd67.chunk.js.map",
+    "index.html": "/sevtechcodes-react-form-handling/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/sevtechcodes-react-form-handling/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.6c19aec3.chunk.js.LICENSE.txt": "/sevtechcodes-react-form-handling/static/js/2.6c19aec3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0f3a7b92.js",
+    "static/js/2.6c19aec3.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.bfbd3527.chunk.js"
+  ]
+}
